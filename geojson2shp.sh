@@ -1,6 +1,6 @@
 # Shell script to convert all GeoJSON files to Shapefiles, including those stored in subdirectories
 # ========================================
-# Assumes EPSG:4326 - convert if necessary
+# Assumes EPSG:4326 - change if necessary.
 # Developed to convert GIS data stored in Cambridge, MA GitHub repo (https://github.com/cambridgegis/cambridgegis_data) for use in ArcGIS.
 # To run: chmod +x ./geojson2shp && ./geojson2shp
 
